@@ -16,7 +16,7 @@ Choose a project from the launch directory. Open http://127.0.0.1:8000/ in a bro
 
 ### Developer entry points
 
-The recovered navigation component contains the actual project tabs. The portable sample renders those tabs and documents how the original routes fit together. Explore `public/`, `src/`, `tests/` in the full tree.
+The recovered navigation component contains the actual project tabs. The portable sample renders those tabs and documents how the original routes fit together. Explore `historical/`, `public/`, `src/`, `tests/` in the full tree.
 
 ### Verification
 
@@ -28,7 +28,7 @@ node --test tests/project.test.mjs
 
 ### Release scope
 
-The export excludes operational material and participant-level allocation rows from the original homepage. potify-launch-room at `6aabc005854f87b5c3bc9065cbc62383e1b58f83`. Original reusable navigation and a generated standalone directory. The production home includes participant-level records and is outside the public developer export.
+The export excludes operational material and participant-level allocation rows from the original homepage. potify-launch-room at `6aabc005854f87b5c3bc9065cbc62383e1b58f83`. Original reusable navigation and a generated standalone directory. The production home includes participant-level records and is outside the public developer export. Historical Rootmap portal data from commit aaad562cb8117a13fc49d25cbd6af41aaaf3634c (POTIFY_Replit_Integration.zip) preserves the former Proof Trail and connected routes. Its historical status fields are not current launch evidence.
 
 [Technical whitepaper](docs/WHITEPAPER.md) · [Marketing and sales plan](docs/MARKETING.md) · [Dated developer log](docs/BUILD-LOG.md)
 

@@ -8,6 +8,9 @@ potify-launch-room/
 │   ├── MARKETING.md
 │   ├── WHITEPAPER.md
 │   └── source.json
+├── historical/
+│   └── rootmap/
+│       └── portal-data.ts
 ├── public/
 │   └── index.html
 ├── src/
