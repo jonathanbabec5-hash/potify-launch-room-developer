@@ -1,0 +1,7 @@
+{
+  "project": "Beneath the Surface · Launch Room",
+  "kind": "Public navigation component edition",
+  "source": "potify-launch-room at `6aabc005854f87b5c3bc9065cbc62383e1b58f83`. Original reusable navigation and a generated standalone directory. The production home includes participant-level records and is outside the public developer export.",
+  "scope": "The export excludes operational material and participant-level allocation rows from the original homepage.",
+  "prepared": "2026-11-25"
+}
