@@ -2,6 +2,14 @@
 
 [Complete repository directory tree](docs/DIRECTORY.md)
 
+## A doorway is only as good as where it leaves you
+
+A newcomer taps ‘Plant Doctor’ because they have a plant question. If the next page quietly drops them on a general homepage, the link may technically work while the visit fails. That last step is why the Launch Room deserves its own project.
+
+Compare the [navigation component](src/EcosystemTabs.tsx) with the [destination records](src/directory.json). The component tells you what the button promises; the destination tells you where the reader is sent. Neither on its own proves that the promised task can be finished.
+
+Choose a public destination and write down its label, final page and the first action a newcomer can complete. Report a misleading label with a clearer alternative. Leave account-specific routes and internal allocations out of the report.
+
 **Public navigation component edition.** Give projects a shared doorway into POTIFY's public work.
 
 ### Setup and usage
