@@ -1,5 +1,13 @@
 # Beneath the Surface · Launch Room
 
+## Find your way in
+
+| If you are… | Start here | Try this |
+| --- | --- | --- |
+| A visitor | [Browse destination records](src/directory.json) | See where the public navigation is intended to lead. |
+| A developer | [Inspect the navigation component](src/EcosystemTabs.tsx) | Compare button labels with destination records. |
+| A tester | [Explore the project tree](docs/DIRECTORY.md) | Report a destination that fails to deliver the promised task. |
+
 [Complete repository directory tree](docs/DIRECTORY.md)
 
 ## A doorway is only as good as where it leaves you
